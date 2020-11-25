@@ -1,1 +1,0 @@
-alert("Quizizz made another change that broke our extension, and it has become much more difficult to retrieve answers.\n\nPlease stay tuned for more information, and understand that Quizizz support will most likely end if we find that this update is unfixable.")
